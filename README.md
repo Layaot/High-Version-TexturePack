@@ -1,2 +1,3 @@
-# High-Version-TexturesPack
-A High-Version TexturesPack
+# High-Version-TexturePack
+A High-Version TexturePack
+# All rights to this texture pack belong to MOJANG Studios!
